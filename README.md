@@ -39,9 +39,9 @@
 ### 🏆 Achievements
 - 🔹 Solved **1200+ DSA problems** across platforms  
 - 🔹 **Codeforces**: 500+ problems, rating **1306**, Rank 861 (Div 4), 1929 (Div 2)  
-- 🔹 **Leetcode**: 700+ problems, rating **1705**  
+- 🔹 **Leetcode**: 700+ problems, rating **1841**  
 - 🔹 **JEE Mains 2022**: 99.21 percentile | AIR: **7200**  
-- 🔹 **SGPA 6th Sem**: **9.2**
+- 🔹 **GPA till 6th Sem**: **8.11**
 
 ---
 
